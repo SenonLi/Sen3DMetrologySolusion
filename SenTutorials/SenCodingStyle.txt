@@ -1,0 +1,5 @@
+To remmber and prectice:
+
+The TABS are only used for indentation, which means that they are to be found only at the beginning of the line.
+Any further alignment should be done with spaces.  
+In Visual Studio 2008, the keyboard shortcut CTRL-K, CTRL-F helps to maintain this layout.
