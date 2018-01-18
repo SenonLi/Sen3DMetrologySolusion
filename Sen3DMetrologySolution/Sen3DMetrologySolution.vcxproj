@@ -190,12 +190,12 @@
   <ItemGroup>
     <ClInclude Include="ChildFrm.h" />
     <ClInclude Include="MainFrm.h" />
-    <ClInclude Include="Resource.h" />
     <ClInclude Include="Sen3DMetrologySolution.h" />
     <ClInclude Include="Sen3DMetrologySolutionDoc.h" />
     <ClInclude Include="Sen3DMetrologySolutionView.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
+    <ClInclude Include="UserInterface\Resource.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ChildFrm.cpp" />
