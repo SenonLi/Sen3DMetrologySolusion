@@ -66,24 +66,24 @@
     </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="res\userimages.bmp">
+    <Image Include="UserInterface\res\Sen3DMetrologySolution.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="res\Sen3DMetrologySolutionDoc.ico">
+    <Image Include="UserInterface\res\Sen3DMetrologySolutionDoc.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="res\Sen3DMetrologySolution.ico">
+    <Image Include="UserInterface\res\Toolbar.bmp">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="res\Toolbar.bmp">
+    <Image Include="UserInterface\res\Toolbar256.bmp">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="res\Toolbar256.bmp">
+    <Image Include="UserInterface\res\userimages.bmp">
       <Filter>Resource Files</Filter>
     </Image>
   </ItemGroup>
   <ItemGroup>
-    <None Include="res\Sen3DMetrologySolution.rc2">
+    <None Include="UserInterface\res\Sen3DMetrologySolution.rc2">
       <Filter>Resource Files</Filter>
     </None>
   </ItemGroup>
