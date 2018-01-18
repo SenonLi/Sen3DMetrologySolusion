@@ -21,3 +21,12 @@ git commit --author="John Doe <john@doe.org>"
 
 *Using --amend for the Very Last Commit
 git commit --amend --author="John Doe <john@doe.org>"
+
+
+
+To do:
+1. build self-Wiki;
+2. File all the possible programming language tips to wiki, with BugSolutionManual;
+3. OpenGL
+4. Vulkan
+5. write make file of Cmake!!!
