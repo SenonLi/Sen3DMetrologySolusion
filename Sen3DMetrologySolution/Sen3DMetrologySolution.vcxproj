@@ -211,9 +211,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="Sen3DMetrologySolution.rc" />
-  </ItemGroup>
-  <ItemGroup>
     <Image Include="UserInterface\res\Sen3DMetrologySolution.ico" />
     <Image Include="UserInterface\res\Sen3DMetrologySolutionDoc.ico" />
     <Image Include="UserInterface\res\Toolbar.bmp" />
@@ -222,6 +219,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="UserInterface\res\Sen3DMetrologySolution.rc2" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="UserInterface\Sen3DMetrologySolution.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

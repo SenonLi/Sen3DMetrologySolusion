@@ -61,11 +61,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="Sen3DMetrologySolution.rc">
-      <Filter>Resource Files</Filter>
-    </ResourceCompile>
-  </ItemGroup>
-  <ItemGroup>
     <Image Include="UserInterface\res\Sen3DMetrologySolution.ico">
       <Filter>Resource Files</Filter>
     </Image>
@@ -86,5 +81,10 @@
     <None Include="UserInterface\res\Sen3DMetrologySolution.rc2">
       <Filter>Resource Files</Filter>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="UserInterface\Sen3DMetrologySolution.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
   </ItemGroup>
 </Project>
