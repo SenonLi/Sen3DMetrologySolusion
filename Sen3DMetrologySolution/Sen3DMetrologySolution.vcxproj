@@ -118,6 +118,7 @@
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_WINDOWS;_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>D:\Developer\Sen3DMetrologySolusion\Sen3DMetrologySolution;</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Windows</SubSystem>
@@ -217,6 +218,10 @@
     <Image Include="UserInterface\res\Toolbar.bmp" />
     <Image Include="UserInterface\res\Toolbar256.bmp" />
     <Image Include="UserInterface\res\userimages.bmp" />
+    <Image Include="UserInterface\UserInterface\res\Sen3DMetrologySolution.ico" />
+    <Image Include="UserInterface\UserInterface\res\Sen3DMetrologySolutionDoc.ico" />
+    <Image Include="UserInterface\UserInterface\res\Toolbar.bmp" />
+    <Image Include="UserInterface\UserInterface\res\Toolbar256.bmp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="UserInterface\res\Sen3DMetrologySolution.rc2" />
